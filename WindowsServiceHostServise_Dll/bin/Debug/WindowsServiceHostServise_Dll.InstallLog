@@ -1,0 +1,24 @@
+﻿Выполняется установка сборки 'G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\bin\Debug\WindowsServiceHostServise_Dll.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\bin\Debug\WindowsServiceHostServise_Dll.InstallLog
+   assemblypath = G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\bin\Debug\WindowsServiceHostServise_Dll.exe
+   logtoconsole = 
+Устанавливается служба MyService_dll...
+Служба MyService_dll успешно установлена.
+Создается исходный EventLog MyService_dll в журнале Application...
+Выполняется фиксация сборки 'G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\bin\Debug\WindowsServiceHostServise_Dll.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\bin\Debug\WindowsServiceHostServise_Dll.InstallLog
+   assemblypath = G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\bin\Debug\WindowsServiceHostServise_Dll.exe
+   logtoconsole = 
+Выполняется удаление сборки 'G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\bin\Debug\WindowsServiceHostServise_Dll.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\bin\Debug\WindowsServiceHostServise_Dll.InstallLog
+   assemblypath = G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\bin\Debug\WindowsServiceHostServise_Dll.exe
+Выполняется удаление источника EventLog MyService_dll.
+Выполняется удаление службы MyService_dll из системы...
+Служба MyService_dll успешно удалена из системы.
+Попытка останова службы MyService_dll.

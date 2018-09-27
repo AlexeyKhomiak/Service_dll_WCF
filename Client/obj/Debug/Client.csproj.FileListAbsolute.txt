@@ -1,0 +1,8 @@
+G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\Client\bin\Debug\Client.exe.config
+G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\Client\bin\Debug\Client.exe
+G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\Client\bin\Debug\Client.pdb
+G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\Client\bin\Debug\Service_dll.dll
+G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\Client\bin\Debug\Service_dll.pdb
+G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\Client\obj\Debug\Client.exe
+G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\Client\obj\Debug\Client.pdb

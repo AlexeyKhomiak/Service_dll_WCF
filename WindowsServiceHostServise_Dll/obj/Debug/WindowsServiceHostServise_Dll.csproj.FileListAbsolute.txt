@@ -1,0 +1,10 @@
+G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\bin\Debug\WindowsServiceHostServise_Dll.exe.config
+G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\bin\Debug\WindowsServiceHostServise_Dll.exe
+G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\bin\Debug\WindowsServiceHostServise_Dll.pdb
+G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\bin\Debug\Service_dll.dll
+G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\bin\Debug\Service_dll.pdb
+G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\obj\Debug\WindowsServiceHostServise_Dll.csprojResolveAssemblyReference.cache
+G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\obj\Debug\WindowsServiceHostServise_Dll.ProjectInstaller.resources
+G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\obj\Debug\WindowsServiceHostServise_Dll.csproj.GenerateResource.Cache
+G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\obj\Debug\WindowsServiceHostServise_Dll.exe
+G:\ALL\PROGRAMING\WCF\DZ2\Service_dll\WindowsServiceHostServise_Dll\obj\Debug\WindowsServiceHostServise_Dll.pdb
